@@ -1,0 +1,58 @@
+<h1 class="h1_cont">Licencias</h1>
+<hr>
+<br>
+<h2 class="h2_cont">Comprobación del estado de activación</h2>
+<br>
+<h3 class="h2_cont">Comprobación del estado de activación</h3>
+
+<p class="parrafo">
+    Lo primero que le interesará es saber si su Windows 10 está activado y vinculado a su cuenta de Microsoft.
+</p>
+<p class="parrafo">
+    Es fundamental vincular su cuenta de Microsoft a la licencia de Windows 10 del dispositivo. La vinculación de tu cuenta de Microsoft con la licencia digital te permitirá reactivar Windows usando el solucionador de problemas de activación, en el caso de que realices cambios de hardware importantes.
+</p>
+<p class="parrafo">
+    Para comprobar el estado de activación en Windows 10, seleccione el botón Inicio, luego <b>Configuración  > Actualización y seguridad  y después, elija Activación</b>. El estado de activación se mostrará al lado de Activación.
+</p>
+<div class="img_cont"><img src="/img/lic1.png" alt="lic_1"/></div>
+
+<h3 class="h3_cont">Métodos de activación</h3>
+<p class="parrafo">
+    Según cómo hayas obtenido tu copia de Windows 10, necesitarás para activarla una licencia digital o una clave de producto de 25 caracteres. Si no dispones de ninguna de ellas, no podrás activar el dispositivo.
+</p>
+<ul class="ul_cont">
+    <li>
+        • Una licencia digital (denominada "derecho digital" en Windows 10, versión 1511) es un método de activación de Windows 10 que no requiere introducir una clave de producto.
+    </li>
+    <li>
+        • Una clave de producto es un código de 25 caracteres que se usa para activar Windows. Lo que verá es la CLAVE DE PRODUCTO: XXXXX-XXXXX-XXXXX-XXXXX-XXXXX.
+    </li>
+</ul>
+<p class="parrafo">Una vez determinado el método de activación a usar, sigue los pasos que vienen en el tema Activar con una licencia digital o Activar con una clave de producto.</p>
+
+<h3 class="h3_cont">Activar con una licencia digital</h3>
+<p class="parrafo">
+    Las licencias digitales están asociadas al hardware y van vinculadas a tu cuenta de Microsoft, de modo que no necesitas buscar nada en tu PC. Estará listo en cuanto el PC se conecte a Internet y haya iniciado sesión en su cuenta de Microsoft. 
+</p>
+<p class="parrafo">
+    Si no tiene una licencia digital, puede usar una clave de producto para activarla.  Para obtener información sobre cómo activar con una clave de producto, siga los pasos descritos en Activar con una clave de producto.
+</p>
+<p class="parrafo"><b>Instalacion y Activacion</b></p>
+<p class="parrafo">
+    Si va a instalar Windows en un nuevo dispositivo o placa base por primera vez y no tiene una clave 
+    de producto, seleccione <b>No tengo una clave de producto</b> durante las pantallas de instalación.  
+    Cuando se le solicite, escriba la cuenta de Microsoft que desea usar para comprar una licencia 
+    digital para este dispositivo. Una vez que se hayan completado las pantallas de instalación y Windows 
+    haya terminado de instalarse, vaya a configuración de activación:  seleccione el botón <b>Inicio</b>  y, a 
+    continuación, <b>seleccione Configuración  > Actualización y Seguridad  > Activación</b>. A continuación,
+    seleccione <b>Ir a Store</b> para comprar una licencia digital para activar Windows.
+</p>
+
+<h3 class="h3_cont">Activar con una clave de producto</h3>
+<p class="parrafo">
+    Una clave de producto es un código de 25 caracteres que tiene este aspecto:
+</p>
+<p class="parrafo">CLAVE DE PRODUCTO: XXXXX-XXXXX-XXXXX-XXXXX-XXXXX</p>
+<p class="parrafo">
+    Durante la instalación, se le solicitará que introduzca una clave de producto. O bien, después de la instalación, para introducir la clave de producto, seleccione el botón Inicio y luego, elija <b>Configuración  > Actualización y seguridad  > Activación  > Actualizar clave de producto > Cambiar clave de producto</b>.
+</p>

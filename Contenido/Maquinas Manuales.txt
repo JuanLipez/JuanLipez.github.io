@@ -1,0 +1,101 @@
+<style>
+    #mancont{
+        width: 100%;
+        height: 515px;       
+
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        gap: 20px;
+        row-gap: 0px;
+    }
+    .manconts{
+        width: calc(100% - 10px);
+        height: calc(100% - 30px);
+    }
+    .mancont_titulo{
+        padding: 10px;
+        font-size: 15px;
+    }
+    #cont_subtemas{
+        background-color: rgb(213, 217, 238, 0.8);
+    }
+    #list_man{
+        margin: 0px;
+        padding: 10px;
+        list-style: none;
+        display: flex;
+        flex-direction: column;
+        align-items:stretch;
+    }
+    #list_man li{
+        margin-bottom: 20px;
+    }
+</style>
+<div id="mancont">
+    <div id="mancont_1" class="manconts">
+        <div class="mancont_titulo">
+            <h2>Windows 10</h2>
+        </div>
+        <div class="mancont_texto">
+            <ul id="list_man">
+                <li><a target="_blank" href="https://drive.google.com/file/d/1Ozk4fS_noNCYqSqlCV84I156SasR9chg/view?usp=sharing">Tutorial de Instalacion de Windows 10</a></li>
+                <li><a target="_blank" href="https://www.microsoft.com/es-es/software-download/windows10%20">Link del Archivo de Instalacion de Windows 10</a></li>
+            </ul>
+        </div>
+    </div>
+    <div id="mancont_2" class="manconts">
+        <div class="mancont_titulo">
+            <h2>Windows 7</h2>
+        </div>
+        <div class="mancont_texto">
+            <ul id="list_man">
+                <li><a target="_blank" href="https://drive.google.com/file/d/1O5trSui2nLz0BfI1Cgi-LbQjF0tH0chr/view?usp=sharing">Tutorial de Instalacion de Windows 7</a></li>
+                <li><a target="_blank" href="https://drive.google.com/file/d/18hYfXze-SdJIwFu53KjCTam43PYim63e/view?usp=sharing">Link del Archivo de Instalacion de Windows 7</a></li>
+            </ul>
+        </div>
+    </div>
+    <div id="mancont_3" class="manconts">
+        <div class="mancont_titulo">
+            <h2>Windows XP</h2>
+        </div>
+        <div class="mancont_texto">
+            <ul id="list_man">
+                <li><a target="_blank" href="https://drive.google.com/file/d/1sk9XVbDAw0TI5b-y1qpNyFmNeD9V4BGf/view?usp=sharing">Tutorial de Instalacion de Windows XP</a></li>
+                <li><a target="_blank" href="https://drive.google.com/file/d/1pgSAeKaa2kkAsAu2oI8CvE_DGNyJzvZ8/view?usp=sharing">Link del Archivo de Instalacion de Windows XP</a></li>
+            </ul>
+        </div>
+    </div>
+    <div id="mancont_4" class="manconts">
+        <div class="mancont_titulo">
+            <h2>Ubuntu 9.10</h2>
+        </div>
+        <div class="mancont_texto">
+            <ul id="list_man">
+                <li><a target="_blank" href="https://drive.google.com/file/d/1EcQzhuClfbuTAVNopJ-TAY-PpctITLSF/view?usp=sharing">Tutorial de Instalacion de Ubuntu 9.10</a></li>
+                <li><a target="_blank" href="https://drive.google.com/file/d/1yOXZ6em4JgATMZdZv9_ngs_mEdSeGcNW/view?usp=sharing">Link del Archivo de Instalacion de Ubuntu 9.10</a></li>
+            </ul>
+        </div>
+    </div>
+    <div id="mancont_5" class="manconts">
+        <div class="mancont_titulo">
+            <h2>Ubuntu 4.10</h2>
+        </div>
+        <div class="mancont_texto">
+            <ul id="list_man">
+                <li><a target="_blank" href="https://drive.google.com/file/d/1f9bTO8wkWdx6th0NHJ6ky9yLp1RX2bAJ/view?usp=sharing">Tutorial de Instalacion de Ubuntu 4.10</a></li>
+                <li><a target="_blank" href="http://old-releases.ubuntu.com/releases/4.10/warty-release-live-i386.iso">Link del Archivo de Instalacion de Ubuntu 4.10</a></li>
+            </ul>
+        </div>
+    </div>
+    <div id="mancont_6" class="manconts">
+        <div class="mancont_titulo">
+            <h2>Debian 11.3</h2>
+        </div>
+        <div class="mancont_texto">
+            <ul id="list_man">
+                <li><a target="_blank" href="https://drive.google.com/file/d/1FluVMME3e5KmSNqcO0s6hSMYVVe6b9k1/view?usp=sharing">Tutorial de Instalacion de Debian 11.3</a></li>
+                <li><a target="_blank" href="https://cdimage.debian.org/debian-cd/current/amd64/iso-cd/debian-11.3.0-amd64-netinst.iso">Link del Archivo de Instalacion de Debian 11.3</a></li>
+            </ul>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,74 @@
+<h1 class="h1_cont">Errores Mas Comunes de Windows</h1>
+<hr>
+<h2 class="h2_cont">Problemas con el código de producto</h2>
+<p class="parrafo">
+    Uno de los errores más comunes del sistema operativo de Microsoft es pedirnos el número de serie del producto para confirmar que es original. Esto no debería ocurrir si venimos de una versión anterior como Windows 8.1 o Windows 7, ya que la actualización es completamente gratuita. Este problema es bastante fácil de solucionar, ya que tan solo tendremos que seleccionar la opción de omitir o activar más tarde. Microsoft reconocerá el problema y procederá a la activación automática de la copia en unos dos días. Si el problema persiste pasado este tiempo, entonces tendremos que ponernos en contacto con el servicio de solución de problemas de Microsoft.
+</p>
+<div class="img_cont"><img src="/img/err1.png" alt="err1"/></div>
+<h2 class="h2_cont">La instalación se cuelga y se producen reinicios constantes</h2>
+<p class="parrafo">
+    Este problema puede darse principalmente por dos causas. En primer lugar, por tener hardware adicional conectado. Debemos de desconectar cualquier periférico que no sea absolutamente imprescindible, esto engloba monitores adicionales, lectores de tarjetas, teclados… Incluso debemos desactivar el WiFi y conectarnos al router mediante cable.
+</p>
+<div class="img_cont"><img src="/img/err2.jpg" alt="err2"/></div>
+<p class="parrafo">
+    En segundo lugar, debemos de conocer la versión que estamos instalando en nuestro ordenador, ya que tendremos que instalar una versión de 32 bits si nuestra máquina es de 32 bits y una versión de 64 bits si es de 64 bits. Por otro lado, las versiones dirigidas a los diferentes sectores también son importantes. Esto quiere decir que si teníamos instalado las versiones de Windows 7 Starter, Home Basic, Home Premium o Windows 8.1 debemos actualizar con la versión de WIndows 10 Home. Por el contrario, si venimos de Windows 7 Pro, Windows 7 Ultimate o Windosw 8.1 Pro o Pro para estudiantes debemos elegir la versión de Windows 10 Pro. Es importante destacar que si teníamos la versión Enterprise, ya sea de Windows 8.1 o Windows 7, la actualización no es gratuita.
+</p>
+<h2 class="h2_cont">Error: “Something Happened 0x80070005-0x90002”</h2>
+<p class="parrafo">
+    El error 80070005 es uno de los más comunes que se pueden producir durante la instalación. La solución a este error es algo engorrosa, pero no es muy complicada. Lo primero que debemos hacer es desactivar todos los antivirus de los que dispongamos, incluido el Firewall y el propio antivirus de Windows. Luego, tendremos que reiniciar el KB 971058 de Windows Update, para lo cual podemos ver como se hace en este apartado de web de Microsoft. Posteriormente debemos lanzar desde Windows Update la actualización de nuevo.
+</p>
+<div class="img_cont"><img src="/img/err3.jpg" alt="err3"/></div>
+<p class="parrafo">
+    Si el error persiste, debemos ejecutar la herramienta DISM. Encontramos las instrucciones aquí.
+</p>
+
+<h2 class="h2_cont">Error: 0xC1900101-0x20017, -0x30018, -0x20004 y similares</h2>
+<p class="parrafo">
+    Adjuntado a este error suele venir la frase “La instalación falló en la fase SAFE_OS con un error durante la operación INSTALL_RECOVERY_ENVIRONMENT”. Parece ser que para este error no se ha llegado a encontrar una solución unánime por lo que son muchos los usuarios que preguntas en muchas páginas Web. Para intentar arreglarlo tendremos que buscar el código de error en Google y tratar de seguir los pasos que indiquen los usuarios. Sino, siempre podemos esperar a que Microsoft arroje algo de luz acerca de como solucionarlo o simplemente que arregle el error.
+</p>
+
+<h2 class="h2_cont">Problemas de activación</h2>
+<p class="parrafo">
+    Hacer una instalación limpia de Windows 10 sin haber comprado una copia original nos puede complicar mucho la vida. Si hemos decidido hacer la instalación limpia sin pasar primero por la actualización, obtener el certificado de Windows Genuine será muy difícil. Para poder instalar Windows 10 desde cero, primero Microsoft tiene que confirmar que teníamos una copia de Windows 7 o Windows 8.1 original por lo que tendremos que tener lo que Microsoft llama “Derecho Digital”.
+</p>
+<div class="img_cont"><img src="/img/err4.png" alt="err4"/></div>
+<p class="parrafo">
+    Una vez que tengamos este Derecho Digital, Microsoft reconocerá nuestro PC siempre y no tendremos ningún problema de activación. Microsoft explica más detalles sobre la activación aquí. La forma más sencilla de obtener este certificado digital es instalar la copia de Windows 10 mediante actualización. Una vez tengamos instalado Windows 10 de esta forma, podremos arrancar el PC desde el disco o USB de instalación y utilizar la función avanzada para formatear, mover o limpiar particiones.
+</p>
+<p class="parrafo">
+    Sin embargo, para algunos esta información puede haber llegado tarde. Si ya ha realizado una instalación limpia sin pasar por la actualización, Microsoft no habrá dado el Derecho Digital y tendrá que solucionar el problema. Para ello, deberás comprobar que tienes la versión correcta, si tenías Windows 7 o Windows 8.1 de 32 bits tendrás que actualizar a 32 bit y si tenías la versión de 64 bits a 64 bits. Si esto lo hemos hecho bien, Windows solucionará el problema automáticamente pasados unos días. Si no ocurre así, podemos utilizar la activación automática por teléfono.
+</p>
+<p class="parrafo">
+    Para realizar la activación por teléfono tendrás que “Ejecutar” buscándolo en el Inicio o pulsando directamente las teclas Windows + R. Una vez aquí escribiremos “slui.exe 4” sin las comillas. A continuación debemos elegir nuestro país y se nos ofrecerá una lista de números de teléfonos. De entre todos ellos, llamaremos al que se indica como gratuito. Aquí un contestador automático nos dirá la clave de instalación, la cual tendremos que escribir en el cuadro de diálogo.
+</p>
+<div class="img_cont"><img src="/img/err5.png" alt="err5"/></div>
+<p class="parrafo">
+    Si aun así seguimos sin tener suerte, podemos tratar de contactar con una persona buscando el número de teléfono en esta página. Si le explicamos nuestro problema adecuadamente, que hemos realizado una instalación limpia y que teníamos una copia original de Windows 7 o Windows 8.1 nos dará una licencia sin ningún tipo de problema.
+</p>
+
+<h2 class="h2_cont">Problemas con los controladores</h2>
+<p class="parrafo">
+    Otro de los problemas que podemos tener, es que los controladores no se hayan instalado automáticamente después de iniciar Windows 10 por primera vez. Si esto ocurre, Windows no detectará nuestra tarjeta de sonido, vídeo o cualquier otro elemento de hardware con los consiguientes problemas. La solución a esto es relativamente sencilla. La mayoría de los controladores se instalan automáticamente durante las siguientes horas y después de varios reinicios. También puede ocurrir que uno de los controladores que no han sido detectados sea el del WiFi por lo que no podremos bajar actualizaciones desde Windows Update y tendremos que conectar nuestro ordenador a través de cable directamente al router. Si el controlador Ethernet tampoco es encontrado tendremos que buscar los controladores desde otro ordenador buscando la marca y modelo del hardware que no nos ha reconocido. Si no conocemos el modelo podemos utilizar programas como “Everest” que nos dirá toda la información acerca de cualquier elemento del ordenador.
+</p>
+<div class="img_cont"><img src="/img/err6.png" alt="err6"/></div>
+
+<h2 class="h2_cont">El menú de inicio</h2>
+<p class="parrafo">
+    Los problemas con el menú de inicio son de los problemas más recurrentes que pueden experimentar los usuarios de Windows 10. Microsoft todavía no ha dado con una solución no ha explicado a qué se puede deber. Sin embargo, afortunadamente podemos resolver nosotros mismos el problema sin mayor complicación mediante el inicio en modo seguro. Lo que tendremos que hacer es escribir “msconfig” dentro del cuadro de ejecutar. Una vez aquí, iremos a la pestaña de arranque y seleccionaremos “arranque a prueba de errores” junto con el modo de “Red”. Al reiniciar, se nos iniciará automáticamente en modo seguro. Una vez iniciado solo tendremos que reiniciar de nuevo en modo normal y el problema quedará solucionado. Si no es así, algunos usuarios han advertido que al crear una nueva cuenta de administrador el bug desaparece.
+</p>
+
+<h2 class="h2_cont">Crear una cuenta puramente local</h2>
+<p class="parrafo">
+    Microsoft ha trabajado mucho en la creación de cuentas de Microsoft por lo que crear una cuenta que sea solamente local puede ser algo tedioso. Para la creación de este tipo de cuentas tendremos que dirigirnos a “Familia y otros usuarios” dentro del menú de configuración y en la pantalla donde tendremos que meter nuestro correo electrónico, seleccionamos “No tengo los datos de esta persona” y luego “Añadir un usuario sin cuenta de Microsoft”. Introduciremos los datos y ya tendremos una cuenta local creada.
+</p>
+<div class="img_cont"><img src="/img/err7.png" alt="err7"/></div>
+
+<h2 class="h2_cont">Faltan programas en la barra de programas instalados</h2>
+<p class="parrafo">
+    Esto ocurre cuando tenemos más de 512 programas instalados. Esto no quiere decir que no podamos seguir instalando aplicaciones, sino que, simplemente, no aparecen en el inicio. Esto es un error para el que no hay nada que se pueda hacer al respecto, sin embargo no supone demasiados problemas para el usuario.
+</p>
+
+<h2 class="h2_cont">No funciona la tienda de Windows</h2>
+<p class="parrafo">
+    Es posible que la tienda de aplicaciones no funcione si acabamos de instalar Windows. La forma más sencilla de solucionar es esperando a que Windows instale sus primeras actualizaciones. Si esto sigue sin funcionar podemos intentar ejecutar el solucionador de aplicaciones de Windows. 
+</p>

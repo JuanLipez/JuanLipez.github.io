@@ -1,0 +1,98 @@
+<style>
+    .subcont_1{
+        width: 80%;
+        height: 200px;
+        margin: auto;
+
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 50px;
+    }
+    .subcont_2{
+        width: 30%;
+        height: 150px;
+        margin: auto;
+
+        display: grid;
+        grid-template-columns: 1fr;
+        gap: 50px;
+    }
+    .subcont{
+        width: 100%;
+        height: 100%;
+        background-color: rgb(98, 100,	110, 0.65);
+
+        font-size: 22px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .subcont a{
+        color: aliceblue;
+        text-decoration: none;
+    }
+    .subcont a:hover{
+        border-bottom: aliceblue solid 2px;
+    }
+    .subcont:hover{
+        box-shadow: #62646E 0px 0px 8px;
+    }
+</style>
+<h1 class="h1_cont">Configuración del Equipo Para Formatear</h1>
+<hr>
+<p class="parrafo">
+    Una de las maneras más usadas para restablecer o formatear un equipo se hace mediante el uso de un USB booteable con el mismo sistema operativo o en su caso el sistema operativo al que desea cambiarse.
+</p>
+<p class="parrafo">
+    Para comenzar con el formateo debemos de hacer el proceso para tener la memoria booteable, para ello seguimos el siguiente tutorial.
+</p>
+<div class="subcont_2">
+    <div class="subcont"><a class="cont_a" target="_blank" href="https://rufus.ie/es/">Rufus</a><br><a class="cont_a" target="_blank" href="https://drive.google.com/file/d/1awD_fXeOVNb5SXiFjbGhFx9Qa7y1gRIm/view?usp=sharing">Manual</a></div>
+</div>
+<p class="parrafo">
+    Ahora debemos cambiar a la configuración de la BIOS para que inicie el USB antes que el disco duro siguiendo los pasos a continuación.
+</p>
+<p class="parrafo">
+    <strong>1.   </strong>Entramos a la BIOS, presionando F2 o ESC cuando esté encendiendo el equipo.
+</p>
+<div class="img_cont"><img src="/img/form_1.jpg" alt="form_1"/></div>
+<p class="parrafo">
+    <strong>2.   </strong>Navegamos por los menús hasta estar en la sección de configuración de booteo generalmente se encuentra en Boot/Boot Priority Order.
+</p>
+<p class="parrafo">
+    <strong>3.   </strong>Después de esto cambiamos el orden dándole la máxima prioridad a los discos USB.
+</p>
+<p class="parrafo">
+    <strong>4.   </strong>Una vez terminemos la configuración ya podemos salir y guardar los cambios.
+</p>
+<p class="parrafo">
+    Después de configurado y teniendo el disco duro lo que debemos hacer es reiniciar el equipo con el USB conectado para que inicie el proceso de instalación del nuevo sistema operativo.
+</p>
+<br>
+<hr>
+<br>
+<h1 class="h1_cont">Formateo de USBs</h1>
+<hr>
+<h2 class="h2_cont">Programas Externos</h2>
+<br>
+<div class="subcont_1">
+    <div class="subcont"><a class="cont_a" target="_blank" href="https://www.paragon-software.com/free/pm-express/">Paragon Partition Manager</a><br><a class="cont_a" target="_blank" href="https://drive.google.com/file/d/14cPclkTPEhY23m_1Rs0gLI-k440Xrn-0/view?usp=sharing">Manual</a></div>
+    <div class="subcont"><a class="cont_a" target="_blank" href="https://es.easeus.com/partition-manager/">EaseUs Partition Master</a><br><a class="cont_a" target="_blank" href="https://drive.google.com/file/d/1EbnsNLIp3uUd9j15Il1PvqApR3YICMtH/view?usp=sharing">Manual</a></div>
+</div>
+<br>
+<h2 class="h2_cont">Programas Internos</h2>
+<h3 class="h3_cont">Administrador de Archivos</h3>
+<p class="parrafo">Para Formatear desde el administrador de archivos debemos seguir los siguientes pasos</p>
+<p class="parrafo"><strong>1.   </strong>Ingresamos al apartado “Este equipo” en el administrador de archivos de windows.</p>
+<div class="img_cont"><img src="/img/for1.png" alt="for1"/></div>
+<p class="parrafo"><strong>2.   </strong>Aquí podremos ver todos los discos.</p>
+<div class="img_cont"><img src="/img/for2.png" alt="for2"/></div>
+<p class="parrafo"><strong>3.   </strong>Damos clic derecho en la USB que vamos a formatear y elegimos la opción “Formatear…”.</p>
+<div class="img_cont"><img src="/img/for3.png" alt="for3"/></div>
+<p class="parrafo"><strong>4.   </strong>Configuramos las opciones de formateo del USB y damos clic en “Iniciar”.</p>
+<div class="img_cont"><img src="/img/for4.png" alt="for4"/></div>
+<p class="parrafo"><strong>5.   </strong>Aceptamos la advertencia.</p>
+<div class="img_cont"><img src="/img/for5.png" alt="for5"/></div>
+<p class="parrafo"><strong>6.   </strong>Después de esto ya contaremos con el USB  formateado.</p>
+<div class="img_cont"><img src="/img/for6.png" alt="for6"/></div>

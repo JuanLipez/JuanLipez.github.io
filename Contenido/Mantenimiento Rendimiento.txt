@@ -1,0 +1,53 @@
+<h1 class="h1_cont">Rendimiento</h1>
+<hr>
+<h2 class="h2_cont">Trucos</h2>
+<h3 class="h3_cont">
+    Deshabilitar programas del inicio automático
+</h3>
+<p class="parrafo">
+    La mayoría de los programas que instalamos en el ordenador se inician de manera automática cada vez que encendemos el equipo. El inicio de multitud de programas lo que hace es consumir recursos más que valiosos para el equipo, además de ralentizar el funcionamiento general del ordenador.
+</p>
+<p class="parrafo">
+    Para deshabilitar los programas que se inicien de manera automática y que no sean necesarios, solo hay que hacer clic derecho en la barra de Windows y luego pulsa en Administrador de tareas. Dentro del Administrador de tareas hay múltiples aparatos, el que nos interesa es el que pone “Inicio” y será ahí donde aparezcan las aplicaciones que se inician de manera automática.
+</p>
+<div class="img_cont"><img src="/img/imag1_Rendimiento.png" alt="imag1_Rendimiento"></div>
+<p class="parrafo">
+    Este apartado además muestra el impacto de los programas que se inician de manera automática, pues no todos consumen la misma can classad de recursos. Lo que toca hacer es ir deshabilitando los que veamos innecesarios. Spotify es, por ejemplo, uno de esos programas que se inicia nada más encender el ordenador y, a veces, esto no es necesario.
+</p>
+<h3 class="h3_cont">
+    Deshabilitar las animaciones y efectos visuales
+</h3>
+<p class="parrafo">
+    Los efectos visuales y animaciones que ha introducido Windows a lo largo de los años han mejorado la experiencia a la hora de utilizar este sistema operativo. Pero son un duro trabajo tanto para equipos potentes como para equipos de uso co classiano.
+</p>
+<div class="img_cont"><img src="/img/imag2_Rendimiento.png" alt="imag2_Rendimiento"></div>
+<p class="parrafo">
+    El proceso para deshabilitarlos es algo más complejo que con los programas de inicio automático. Lo primero que hay que hacer es escribir “sysdm.cpl”, no hay que incluir las comillas, en el apartado de búsqueda de Windows. Nos mostrará una opción que parece un archivo, tocará pulsar en ella y esperar a que se abra la ventana con el nombre “Propiedades del sistema”.
+</p>
+<div class="img_cont"><img src="/img/imag3_Rendimiento.png" alt="imag3_Rendimiento"></div>
+<p class="parrafo">
+    Una vez dentro de Propiedades del sistema nos dirigiremos al subapartado de opciones avanzadas y pulsaremos en la opción de configuración dentro de la casilla de rendimiento. Aparecerá otra ventana y nos dará las siguientes opciones:
+</p>
+<ul>
+    <li>• Dejar que Windows elija la configuración más adecuada para el equipo.</li>
+    <li>• Ajustar para obtener la mejor apariencia.</li>
+    <li>• Ajustar para obtener el mejor rendimiento.</li>
+    <li>• Personalizar.</li>
+</ul>
+<p class="parrafo">
+    La elección es completamente libre, aunque lo recomendable si no nos importan los efectos visuales o animaciones es pulsar la que ajusta los parámetros para obtener el mejor rendimiento. Una vez hecho esto solo quedaría pulsar en aceptar y luego en aplicar para que se configure así el ordenador.
+</p>
+<br>
+<h2 class="h2_cont">Programas</h2>
+<h3 class="h3_cont">Glary Utilities</h3>
+<p class="parrafo">
+    Glary Utilities es un programa gratis todo en 1 para optimizar y limpiar tu PC. Aunque sea poco conocido yo lo considero como uno de los mejores programas para limpiar y optimizar tu PC. 
+</p>
+<a target="_blank" href="https://www.glarysoft.com/" class="link" >Descarga Glary</a>
+<br>
+<h3 class="h3_cont">CCleaner</h3>
+<p class="parrafo">
+    Sin lugar a dudas es el mejor programa gratis para limpiar y optimizar un PC con Windows 10, Windows 7 o Windows 8. Seguramente también sea el más conocido y el más utilizado pero también es el que más premios ha recibido.
+</p>
+<a target="_blank" href="https://www.ccleaner.com/es-es/ccleaner" class="link">Descarga CCleaner</a>
+

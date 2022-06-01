@@ -1,0 +1,41 @@
+<h1 class="h1_cont">Diagnostico</h1>
+<hr>
+<h2 class="h2_cont">Diagnostico de Hardware</h2>
+<h3 class="h3_cont">Crystal Disk Info</h3>
+<p class="parrafo">
+    CrystalDiskInfo te muestra en su interfaz todo tipo de información detallada acerca del disco duro, desde la marca y el modelo al tamaño de buffer y caché, el número de serie, o incluso el firmware que utiliza.
+</p>
+<p class="parrafo">
+    <b>1.   </b>Desde la página oficial de Crystal Disk Info descargamos el instalador o desde el siguiente link: 
+</p>
+<p class="parrafo"><a target="_blank" href="https://osdn.net/projects/crystaldiskinfo/downloads/77136/CrystalDiskInfo8_16_4.exe/"><b>Crystal Disk Info Linux 64-bit</b></a></p>
+<div class="img_cont"><img src="/img/diag1.png" alt="diag_1"/></div>
+<p class="parrafo">
+    <b>2.   </b>Después de descargar y ejecutar el instalador, aceptamos los términos y condiciones.
+</p>
+<div class="img_cont"><img src="/img/diag2.png" alt="diag_2"/></div>
+<p class="parrafo">
+    <b>3.   </b>Elegimos la ruta de la instalación.
+</p>
+<div class="img_cont"><img src="/img/diag3.png" alt="diag_3"/></div>
+<p class="parrafo">
+    <b>4.   </b>Damos clic a siguiente.
+</p>
+<div class="img_cont"><img src="/img/diag4.png" alt="diag_4"/></div>
+<p class="parrafo">
+    <b>5.   </b>Creamos el acceso directo.
+</p>
+<div class="img_cont"><img src="/img/diag5.png" alt="diag_5"/></div>
+<div class="img_cont"><img src="/img/diag6.png" alt="diag_6"/></div>
+<p class="parrafo">
+    <b>6.   </b>Damos clic a instalar.
+</p>
+<div class="img_cont"><img src="/img/diag7.png" alt="diag_7"/></div>
+<p class="parrafo">
+    <b>7.   </b>Ejecutamos el programa.
+</p>
+<div class="img_cont"><img src="/img/diag8.png" alt="diag_8"/></div>
+<p class="parrafo">
+    <b>8.   </b>Y ya podremos ver el diagnóstico de nuestro disco duro.
+</p>
+<div class="img_cont"><img src="/img/diag9.png" alt="diag_9"/></div>

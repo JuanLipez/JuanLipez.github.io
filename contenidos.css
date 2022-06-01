@@ -1,0 +1,39 @@
+.h1_cont{
+}
+.h2_cont{
+    margin-left: 50px;
+}
+.h3_cont{
+    margin-left: 100px;
+    margin-top: 40px;
+}
+.parrafo{
+    margin: 30px 25px 20px 30px;
+}
+.img_cont{
+    display: flex;
+    justify-content: center;
+    margin: 15px 0px 30px 0px;
+}
+img{
+    max-width: 600px;
+    max-height: 600px;
+    box-shadow: #62646E 0px 0px 10px;
+}
+hr{
+    border: 1px solid rgba(31, 31, 31, 0.425);
+}
+.ul_cont ul{
+    list-style: disc;
+}
+.link{
+    margin: 20px 0px 20px 50px;
+    padding: 10px;
+    font: bold;
+    color: aliceblue;
+    background-color: #62646E;
+}
+.link:hover{
+    border: none;
+    box-shadow: #62646E 0px 0px 10px;
+}

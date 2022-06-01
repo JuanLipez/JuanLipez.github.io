@@ -1,0 +1,50 @@
+<h1 class="h1_cont">Configuracion de Maquinas Virtuales - Linux</h1>
+<hr>
+<h2 class="h2_cont">Reconococimiento de USbs</h2>
+<p class="parrafo">
+    <b>1.   </b>Comprobamos que el driver de USBs este deshabilitado y que la máquina virtual no reconoce el USB conectado. 
+</p>
+<div class="img_cont"><img src="/img/conf1.png" alt="conf_1"/></div>
+<p class="parrafo">
+    <b>2.   </b>Damos click en la parte superior en el apartado de “Dispositivos”.
+</p>
+<div class="img_cont"><img src="/img/conf2.png" alt="conf_2"/></div>
+<p class="parrafo">
+    <b>3.   </b>Navegamos hasta la sección “USB” y aquí escogemos el dispositivo que queremos en mi caso el nombre de este es “USB DISK” pero este puede variar.
+</p>
+<div class="img_cont"><img src="/img/conf3.png" alt="conf_3"/></div>
+<p class="parrafo">
+    <b>4.   </b>Después de esto el dispositivo aparecerá montado en nuestro administrador de archivos.
+</p>
+<div class="img_cont"><img src="/img/conf4.png" alt="conf_4"/></div>
+<hr>
+<br>
+<h2 class="h1_cont">Instalacion de programas - Linux</h1>
+<p class="parrafo">
+    <b>1.   </b>Para instalar un programa desde la terminal de Linux debemos seguir los pasos a continuacion.
+</p>
+<p class="parrafo"><a target="_blank" href="https://download.opera.com/download/get/?partner=www&opsys=Linux"><b>Pagina Oficial de Opera</b></a></p>
+<p class="parrafo">
+    Cabe recalcar que Debian utilizar los paquetes de instalación .deb. 
+</p>
+<div class="img_cont"><img src="/img/conf5.png" alt="conf_5"/></div>
+<p class="parrafo">
+    <b>2.   </b>Una vez demos clic en el enlace nos saldrá este panel, tendremos que seleccionar en “Guardar archivo” y “aceptar”.
+</p>
+<div class="img_cont"><img src="/img/conf6.png" alt="conf_6"/></div>
+<p class="parrafo">
+    <b>3.   </b>Después de descargado el archivo nos ubicamos en la carpeta de descargas desde la terminal y escribimos el siguiente comando.
+</p>
+<div class="img_cont"><img src="/img/conf7.png" alt="conf_7"/></div>
+<p class="parrafo">
+    <b>4.   </b>Escribimos la contraseña de superusuario.
+</p>
+<div class="img_cont"><img src="/img/conf8.png" alt="conf_8"/></div>
+<p class="parrafo">
+    <b>5.   </b>Después de esto comenzamos con la instalación.
+</p>
+<div class="img_cont"><img src="/img/conf9.png" alt="conf_9"/></div>
+<p class="parrafo">
+    <b>6.   </b>Después de esto quedaría instalado opera en el sistema, lo podemos comprobar escribiendo “opera” en la terminal.
+</p>
+<div class="img_cont"><img src="/img/conf10.png" alt="conf_10"/></div>

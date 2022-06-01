@@ -1,0 +1,53 @@
+<h1 class="h1_cont">DOS</h1>
+<hr>
+<h2 class="h2_cont">Principales Comandos de DOS</h2>
+<p class="parrafo">
+
+</p>
+<p class="parrafo">
+    <b>CD Nombre del directorio:</b> Cambia al directorio que introduzcas.
+    Por ejemplo: cd Downloads
+</p>
+<div class="img_cont"><img src="/img/dos1.png" alt="dos_1"/></div>
+<p class="parrafo">
+    <b>CD \  :</b> El comando DOS “cd” combinado con una barra invertida te llevará al directorio raíz de la unidad actual.
+</p>
+<div class="img_cont"><img src="/img/dos2.png" alt="dos_2"/></div>
+<p class="parrafo">
+    <b>CD .. :</b> Sube un nivel en el directorio.
+</p>
+<div class="img_cont"><img src="/img/dos3.png" alt="dos_3"/></div>
+<p class="parrafo">
+    <b>DIR:</b> Muestra todo el contenido de un directorio. Se pueden utilizar filtros (los llamados “comodines”) para mostrar solo determinados contenidos. Un asterisco puede utilizarse como marcador de posición para cualquier número de caracteres. Un signo de interrogación sustituye a un carácter.
+    Por ejemplo: dir *.txt Muestra todos los archivos con la extensión de archivo “.txt”.dir dat*.txt muestra todos los archivos con la extensión “.txt” cuyos nombres empiezan por “dat”.
+</p>
+<div class="img_cont"><img src="/img/dos4.png" alt="dos_4"/></div>
+<p class="parrafo">
+    <b>MD Unidad:</b> \ruta\al\directorio : El comando DOS “md” significa “make directory” y crea un directorio en el nivel de directorio indicado. El sistema no cambia al directorio recién creado.
+</p>
+<div class="img_cont"><img src="/img/dos5.png" alt="dos_5"/></div>
+<div class="img_cont"><img src="/img/dos6.png" alt="dos_6"/></div>
+<p class="parrafo">
+    <b>RD :</b> El comando MS-DOS “rd” borra el directorio indicado. El directorio debe estar vacío. Si quieres que el sistema borre el directorio junto con su contenido, puedes utilizar el comando DOS DELTREE (en la versión 6 y superiores).
+</p>
+<div class="img_cont"><img src="/img/dos7.png" alt="dos_7"/></div>
+<div class="img_cont"><img src="/img/dos8.png" alt="dos_8"/></div>
+<p class="parrafo">
+    TREE : Muestra todos los subdirectorios (con archivos) en la unidad o directorio indicado.
+</p>
+<div class="img_cont"><img src="/img/dos9.png" alt="dos_9"/></div>
+<p class="parrafo">
+    <b>COPY :</b> Copia un archivo en un nuevo directorio. Si cambias el nombre del archivo para el nuevo directorio, el sistema lo duplicará.
+    Para el ejemplo vamos a pasar el archivo “ejemplo.txt” de la carpeta 1 a la carpeta 2.
+</p>
+<div class="img_cont"><img src="/img/dos10.png" alt="dos_10"/></div>
+<div class="img_cont"><img src="/img/dos11.png" alt="dos_11"/></div>
+<p class="parrafo">
+    <b>TYPE : </b> Muestra el contenido del archivo indicado en la pantalla.
+</p>
+<div class="img_cont"><img src="/img/dos12.png" alt="dos_12"/></div>
+<div class="img_cont"><img src="/img/dos13.png" alt="dos_13"/></div>
+<p class="parrafo">
+    <b>DEL :</b> Borra el archivo que has indicado.
+</p>
+<div class="img_cont"><img src="/img/dos14.png" alt="dos_14"/></div>

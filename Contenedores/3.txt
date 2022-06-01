@@ -1,0 +1,16 @@
+<div id="cont_1" class="conts" onclick="cont_1()">
+	<div id="cont_titulo_1" class="cont_titulos"></div>
+</div>
+<div id="cont_2" class="conts" onclick="cont_2()">
+	<div id="cont_titulo_2" class="cont_titulos"></div>
+</div>
+<div id="cont_3" class="conts" onclick="cont_3()">
+	<div id="cont_titulo_3"class="cont_titulos"></div>
+</div>
+<style>
+
+	.cont_titulos{
+	    padding: 5px 0px 5px 0px;
+		font: bold;
+	}
+</style>

@@ -1,0 +1,42 @@
+<h1 class="h1_cont">Programas</h1>
+<hr>
+<h2 class="h2_cont">Instalacion de Programas Utilitarios y de ofimatica con Ninite</h2>
+<p class="parrafo">
+    Ninite es una oferta de sistema de administración de paquetes que permite a los usuarios instalar automáticamente aplicaciones populares para su sistema operativo Windows. Permite a los usuarios hacer una selección de una lista de aplicaciones y agrupa la selección en un solo paquete de instalación.
+</p>
+<p class="parrafo">
+    Para instalar porgramas desde la web de Ninite debemos seguir los pasos a continuacion.
+</p>
+<p class="parrafo">
+    <b>1.   </b>Ingresamos a la página principal de Ninite en el siguiente enlace: Ninite - Install or Update Multiple Apps at Once 
+</p>
+<div class="img_cont"><img src="/img/prog1.png" alt="prog_1"/></div>
+<p class="parrafo">
+    <b>2.   </b>Escogemos todos los programas que queramos instalar.
+</p>
+<div class="img_cont"><img src="/img/prog2.png" alt="prog_2"/></div>
+<p class="parrafo">
+    <b>3.   </b>Bajamos y damos clic en el botón “Get Your Ninite”.
+</p>
+<div class="img_cont"><img src="/img/prog3.png" alt="prog_3"/></div>
+<p class="parrafo">
+    <b>4.   </b>Mientras descarga el instalador nos muestran cómo utilizar el instalador.
+</p>
+<div class="img_cont"><img src="/img/prog4.png" alt="prog_4"/></div>
+<p class="parrafo">
+    <b>5.   </b>Una vez descargado el instalador lo ejecutamos.
+</p>
+<div class="img_cont"><img src="/img/prog5.png" alt="prog_5"/></div>
+<p class="parrafo">
+    <b>6.   </b>Esperamos a que descarguen los instaladores de las aplicaciones que seleccionamos.
+</p>
+<div class="img_cont"><img src="/img/prog6.png" alt="prog_6"/></div>
+<p class="parrafo">
+    <b>7.   </b>Esperamos a que se instalen.
+</p>
+<div class="img_cont"><img src="/img/prog7.png" alt="prog_7"/></div>
+<p class="parrafo">
+    <b>8.   </b>Después de que termine la descarga e instalación de los programas los tendremos en nuestro escritorio.
+</p>
+<div class="img_cont"><img src="/img/prog8.png" alt="prog_8"/></div>
+<div class="img_cont"><img src="/img/prog9.png" alt="prog_9"/></div>

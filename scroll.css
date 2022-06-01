@@ -1,0 +1,35 @@
+#cont_subtemas::-webkit-scrollbar, #cont_texto_1::-webkit-scrollbar, #cont_texto_2::-webkit-scrollbar, #cont_texto_3::-webkit-scrollbar{
+    width: 8px;
+}
+
+/* Estilos barra (thumb) de scroll */
+#cont_subtemas::-webkit-scrollbar-thumb ,#cont_texto_1::-webkit-scrollbar-thumb, #cont_texto_2::-webkit-scrollbar-thumb, #cont_texto_3::-webkit-scrollbar-thumb{
+    background: rgb(87, 87, 87);
+    border-radius: 4px;
+}
+
+#cont_texto_1::-webkit-scrollbar-thumb:active, #cont_texto_2::-webkit-scrollbar-thumb:active, #cont_texto_3::-webkit-scrollbar-thumb:active{
+    background-color: #A6A9BA;
+}
+
+#cont_subtemas::-webkit-scrollbar:hover, #cont_texto_1::-webkit-scrollbar-thumb:hover, #cont_texto_2::-webkit-scrollbar-thumb:hover, #cont_texto_3::-webkit-scrollbar-thumb:hover{
+    background: #A3BEC0;
+    box-shadow: 0 0 2px 1px rgba(0, 0, 0, 0.2);
+}
+
+/* Estilos track de scroll */
+#cont_texto_1::-webkit-scrollbar-track , #cont_texto_2::-webkit-scrollbar-track, #cont_texto_3::-webkit-scrollbar-track{
+    background: #A6A9BA;
+    border-radius: 4px;
+}
+
+#cont_subtemas::-webkit-scrollbar-track:hover, #cont_subtemas::-webkit-scrollbar-track:active,
+#cont_texto_1::-webkit-scrollbar-track:hover, #cont_texto_1::-webkit-scrollbar-track:active, 
+#cont_texto_2::-webkit-scrollbar-track:hover, #cont_texto_2::-webkit-scrollbar-track:active,
+#cont_texto_3::-webkit-scrollbar-track:hover, #cont_texto_3::-webkit-scrollbar-track:active{
+    background: #afafaf;
+}
+#cont_subtemas::-webkit-scrollbar-track{
+background:  rgb(213, 217, 238, 0.9)C0;
+border-radius: 4px;
+}

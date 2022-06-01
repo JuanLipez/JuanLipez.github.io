@@ -1,0 +1,87 @@
+<h1 class="h1_cont">Antivirus</h1>
+<hr>
+<h2 class="h2_cont">Antivirus Libres</h2>
+<h3 class="h3_cont">Kaspersky Free</h3>
+<div class="img_cont"><img src="/img/ant1.jpg" alt="ant1"/></div>
+<p class="parrafo">
+    Antivirus gratis con protección y almacenamiento de contraseñas y cifrado de datos vía VPN, es considerado como uno de los mejores antivirus gratis en la actualidad. Además, utiliza el mismo motor de detección que la versión de pago y se puede usar tanto en ordenadores como en dispositivos móviles. La firma ofrece otras herramientas gratuitas (durante un periodo de prueba) que sirven de complemento a este antivirus, como el gestor de contraseñas o el control parental ‘Kaspersky Safe Kids’. 
+</p>
+<a target="_blank" href="https://www.kaspersky.es/free-antivirus" class="link">Descarga Kaspersky Free</a>
+<br>
+<h3 class="h3_cont">Bitdefender Free</h3>
+<div class="img_cont"><img src="/img/ant2.png" alt="ant2"/></div>
+<p class="parrafo">
+    Aunque no permita programar escaneos y haya que hacerlo de forma manual, su sistema de búsqueda de amenazas es rápido y el nivel de protección (aunque sea básica) es bueno. Trabaja en segundo plano y otro punto a su favor es que no ‘molesta’ al usuario con publicidad. Asegura ser ideal para gamers y editores (de imagen y vídeo) y no ocupar mucho espacio en el dispositivo, para no afectar su rendimiento. Hay tres versiones disponibles: para PC, Android y MacOS.
+</p>
+<a target="_blank" href="https://www.bitdefender.com/solutions/free.html#" class="link">Descarga Bitdefender Free</a>
+<br>
+<h3 class="h3_cont">Sophos Home Free</h3>
+<div class="img_cont"><img src="/img/ant3.webp" alt="ant3"/></div>
+<p class="parrafo">
+    La versión gratuita incluye un periodo de prueba de 30 días de la versión Premium y es compatible con dispositivos  Windows y Mac. Entre sus funciones destaca el filtrado parental de sitios web para controlar el contenido que pueden ver los menores en Internet o la administración remota, que permite proteger el equipo desde una interfaz web, esté donde esté el usuario. La detección de amenazas funciona con Inteligencia Artificial predictiva. 
+</p>
+<a target="_blank" href="https://www.zonealarm.com/es/software/free-antivirus" class="link">Descarga Sophos Home Free</a>
+<h2 class="h2_cont" style="margin-top: 40px;">Antivirus De Paga</h2>
+<h3 class="h3_cont">Panda Dome Complete</h3>
+<div class="img_cont"><img src="/img/ant4.png" alt="ant4"/></div>
+<p class="parrafo">
+    La empresa española de seguridad Panda dispone de la suite Panda Dome Complete cuya principal ventaja es que es compatible con un número ilimitado de dispositivos, por lo que puedes instalarlo en todos los ordenadores que quieras mientras tengas la suscripción anual.
+</p>
+<p class="parrafo">
+    Dome Complete es la suite de Panda que incluye una protección contra virus y amenazas de internet como cifrado del disco con ransomware o propagación de malware mediante tu red de internet. También protege tus contraseñas y datos personales con un VPN gratuito que ofrece 150MB de datos diarios.
+</p>
+<a target="_blank" href="https://www.pandasecurity.com/es/homeusers/free-antivirus/" class="link">Descarga Panda Dome Complete</a>
+<h3 class="h3_cont">McAfee Total Protection</h3>
+<div class="img_cont"><img src="/img/ant5.png" alt="ant5"/></div>
+<p class="parrafo">
+    McAfee ofrece una de las suites de protección completa para todos tus dispositivos más completas y baratas. McAfee Total Protection 2020 te da acceso durante un año a uno de los antivirus más famosos y otras características.
+</p>
+<p class="parrafo">
+    Es compatible con 5 dispositivos, ya sean ordenadores con Windows, Macs o móviles Android. Su antivirus ofrece protección contra malware y amanezas de internet con una protección basada en la búsqueda en internet que se mantiene actualizada constantemente o con la base de datos que descarga para poder hacerlo sin conexión.
+</p>
+<a target="_blank" href="https://www.mcafee.com/es-es/index.html" class="link">Descarga McAfee Total Protection</a>
+<h3 class="h3_cont">Norton 360 Deluxe</h3>
+<div class="img_cont"><img src="/img/ant6.jpg" alt="ant6"/></div>
+<p class="parrafo">
+    El antivirus de Norton bajo suscripción supera al del resto de esta lista con creces, porque con Norton 360 Deluxe 2020 en vez de ofrecerte 12 meses de suscripción, por poco más de 25€ funcionará durante 15 meses y en 5 dispositivos diferentes.
+</p>
+<p class="parrafo">
+    Incluye protección contra amenazas en tiempo real gracias a la búsqueda de malware y virus en la nube, pero también descarga bases de datos para poder buscar virus cuando no tengas conexión a internet. Incluye un VPN personal para proteger la navegación y hacer más segura la banca digital o compras en internet.
+</p>
+<a target="_blank" href="https://co.norton.com/antivirus?inid=nortoncom_nav_antivirus_homepage:home" class="link">Descarga Norton 360 Deluxe</a>
+<h3 class="h3_cont">Avira Antivirus Pro</h3>
+<div class="img_cont"><img src="/img/ant7.png" alt="ant7"/></div>
+<p class="parrafo">
+    Uno de los más conocidos, habituales y recomendables. ESET también saca sobresaliente en el test mencionado y tiene varios paquetes diferentes parea el hogar, para empresas. Tiene protección multidispositivo con opciones y herramientas como almacenaje de contraseñas, seguridad en compras online, cifrado de datos y archivos, protección en la red WiFi.
+</p>
+<a target="_blank" href="https://www.avira.com/es/antivirus-pro" class="link">Descarga Avira Antivirus Pro</a>
+<h3 class="h3_cont">ESET Internet Security</h3>
+<div class="img_cont"><img src="/img/ant8.jpg" alt="ant8"/></div>
+<p class="parrafo">
+    Uno de los más conocidos, habituales y recomendables. ESET también saca sobresaliente en el test mencionado y tiene varios paquetes diferentes parea el hogar, para empresas. Tiene protección multidispositivo con opciones y herramientas como almacenaje de contraseñas, seguridad en compras online, cifrado de datos y archivos, protección en la red WiFi.
+</p>
+<a target="_blank" href="https://www.avira.com/es/antivirus-pro" class="link">Descarga ESET Internet Security</a>
+<p style="margin-top: 30px;">
+<hr>
+<h2 class="h2_cont">Mejores Software Para Prevenir Spyware</h2>
+<hr>
+<h3 class="h3_cont">Spy-bot</h3>
+<div class="img_cont"><img src="/img/ant9.jpg" alt="ant9"/></div>
+<p class="parrafo">
+    Spybot–Search & Destroy aprobado protege su computadora contra malware. Spybot Anti-Beacon ayuda a evitar que sus datos se envíen a terceros. El nuevo Spybot Identity Monitor lo ayuda a darse cuenta y tomar medidas cuando su información personal en poder de terceros se vio comprometida. Si no está buscando un solo sistema, puede encontrar su solución individual entre los Paquetes familiares o el Paquete para pequeñas empresas que agrupan todas las aplicaciones de seguridad y privacidad que necesita.
+</p>
+<a target="_blank" href="https://www.safer-networking.org/" class="link">Descarga Spy-bot</a>
+
+<h3 class="h3_cont">Spywareblaster</h3>
+<div class="img_cont"><img src="/img/ant10.jpg" alt="ant10"/></div>
+<p class="parrafo">
+    Spyware, adware, browser hijackers, and dialers are some of the most annoying and pervasive threats on the Internet today. By simply browsing a web page, you could find your computer to be the brand-new host of one of these unwanted fiends!
+</p>
+<a target="_blank" href="https://www.brightfort.com/spywareblaster.html" class="link">Descarga Spywareblaster</a>
+
+<h3 class="h3_cont">SUPERAntiSpyware</h3>
+<div class="img_cont"><img src="/img/ant11.jpg" alt="ant10"/></div>
+<p class="parrafo">
+    SUPERAntiSpyware es un software para Microsoft Windows​ que detecta y elimina spyware, adware, troyanos, rogue software, gusanos y rootkits. A pesar de su capacidad para detectar malware, el programa no está diseñado para reemplazar el antivirus.
+</p>
+<a target="_blank" href="https://www.superantispyware.com/" class="link">Descarga SUPERAntiSpyware</a>
