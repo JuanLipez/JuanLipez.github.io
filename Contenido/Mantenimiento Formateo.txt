@@ -41,9 +41,7 @@
 </style>
 <h1 class="h1_cont">Configuración del Equipo Para Formatear</h1>
 <hr>
-<p class="parrafo">
-    Una de las maneras más usadas para restablecer o formatear un equipo se hace mediante el uso de un USB booteable con el mismo sistema operativo o en su caso el sistema operativo al que desea cambiarse.
-</p>
+<div class="img_cont"><img src="/img/for7.png" alt="for7"/></div>
 <p class="parrafo">
     Para comenzar con el formateo debemos de hacer el proceso para tener la memoria booteable, para ello seguimos el siguiente tutorial.
 </p>
